@@ -1,0 +1,6 @@
+name: Brakeman Buildkite Plugin
+description: A plugin to run Brakeman
+version: v1.0.0
+
+hooks:
+  post-checkout: hooks/post-checkout
