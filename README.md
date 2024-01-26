@@ -15,4 +15,4 @@ Add the following to your pipeline configuration:
 ```yaml
 steps:
   - plugins:
-      - sjames-au/brakeman
+      - sjames-au/brakeman#v1.0.0
