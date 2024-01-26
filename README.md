@@ -15,4 +15,4 @@ Add the following to your pipeline configuration:
 ```yaml
 steps:
   - plugins:
-      - sjames-au/brakeman-buildkite-plugin#v1.0.0
+      - sjames-au/brakeman
