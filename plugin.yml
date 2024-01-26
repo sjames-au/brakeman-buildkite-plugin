@@ -1,6 +1,9 @@
 name: Brakeman Buildkite Plugin
 description: A plugin to run Brakeman
 version: v1.0.0
+author: https://github.com/sjames-au
+requirements: []
+configuration: {}
 
 hooks:
   post-checkout: hooks/post-checkout
