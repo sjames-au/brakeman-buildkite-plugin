@@ -8,7 +8,7 @@ A Buildkite plugin that runs [Brakeman](https://brakemanscanner.org/), a static 
 - Ruby
 - Brakeman
 
-## Usage
+## Example
 
 Add the following to your pipeline configuration:
 
