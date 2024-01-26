@@ -4,3 +4,7 @@ services:
     command: ['--id', 'sjames-au/brakeman']
     volumes:
       - ".:/plugin:ro"
+  test:
+    image: buildkite/plugin-tester
+    volumes:
+      - ".:/plugin:ro"
